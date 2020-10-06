@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/drink-finder/static/css/main.935cfb3f.chunk.css",
+    "main.js": "/drink-finder/static/js/main.4eba51b3.chunk.js",
+    "main.js.map": "/drink-finder/static/js/main.4eba51b3.chunk.js.map",
+    "runtime-main.js": "/drink-finder/static/js/runtime-main.b9c9402d.js",
+    "runtime-main.js.map": "/drink-finder/static/js/runtime-main.b9c9402d.js.map",
+    "static/js/2.caf9ba89.chunk.js": "/drink-finder/static/js/2.caf9ba89.chunk.js",
+    "static/js/2.caf9ba89.chunk.js.map": "/drink-finder/static/js/2.caf9ba89.chunk.js.map",
+    "index.html": "/drink-finder/index.html",
+    "precache-manifest.eed799daf53c7a0d56837e8038d96490.js": "/drink-finder/precache-manifest.eed799daf53c7a0d56837e8038d96490.js",
+    "service-worker.js": "/drink-finder/service-worker.js",
+    "static/css/main.935cfb3f.chunk.css.map": "/drink-finder/static/css/main.935cfb3f.chunk.css.map",
+    "static/js/2.caf9ba89.chunk.js.LICENSE.txt": "/drink-finder/static/js/2.caf9ba89.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9c9402d.js",
+    "static/js/2.caf9ba89.chunk.js",
+    "static/css/main.935cfb3f.chunk.css",
+    "static/js/main.4eba51b3.chunk.js"
+  ]
+}
