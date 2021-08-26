@@ -22,7 +22,7 @@ const ProviderRecipe = (props) => {
             }
             getRecipes()
         }
-    }, [search]);
+    }, [name, category, consult]);
 
     return (
         <RecipeContext.Provider
